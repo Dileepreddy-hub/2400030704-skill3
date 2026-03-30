@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
 	<name>springcore-student</name>
-=======
-	<name>HibernateHQL</name>
->>>>>>> c5f3d4933dcfec7c3bde635775bf2066990a45b2
 	<comment></comment>
 	<projects>
 	</projects>
@@ -26,11 +22,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-<<<<<<< HEAD
 			<id>1773158855965</id>
-=======
-			<id>1773158855610</id>
->>>>>>> c5f3d4933dcfec7c3bde635775bf2066990a45b2
 			<name></name>
 			<type>30</type>
 			<matcher>
